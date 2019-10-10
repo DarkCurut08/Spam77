@@ -2,7 +2,7 @@ clear
 echo "\n\n\n\033[1;32m      +---------[Spamer by Moreno77]----------+"
 python .py
 sleep 1
-echo "033[1;32m 1. Spam SMS\n 2. Spam Call"
+echo "\033[1;32m 1. Spam SMS\n 2. Spam Call"
 echo " 3. Update Script"
 read -p " [?] Input => " pil;
 case $pil in
