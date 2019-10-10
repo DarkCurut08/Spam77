@@ -20,6 +20,7 @@ rm -rf Spam77
 git clone https://github.com/DarkCurut08/Spam77
 cd Spam77
 sh Moreno77.sh
+exit
 ;;
 esac
 done
