@@ -16,6 +16,7 @@ exit
 ;;
 3) echo "[!] Proses Update Script......"
 sleep 2 
+cd $HOME
 rm -rf Spam77
 git clone https://github.com/DarkCurut08/Spam77
 cd Spam77
