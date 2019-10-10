@@ -6,7 +6,6 @@ except ModuleNotFoundError:
 	print("\nSepertinya module requests BELUM Di Install")
 	print("$ pip install requests\n")
 	exit()
-os.system('clear')
 print("""\033[1;32m
       +---------[ Spamer Kartu TRI ]----------+""")
 no = input(" [?] Nomer =>\033[1;33m ")
