@@ -1,4 +1,5 @@
 clear
+python .py
 echo "\033[1;32m
       +---------[Spamer by Moreno77]----------+"
 sleep 1
