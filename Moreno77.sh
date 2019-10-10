@@ -1,5 +1,5 @@
 clear
-echo "\033[1;32m      +---------[Spamer by Moreno77]----------+"
+echo "\n\n\n\033[1;32m      +---------[Spamer by Moreno77]----------+"
 python .py
 sleep 1
 echo " 1. Spam SMS\n 2. Spam Call"
