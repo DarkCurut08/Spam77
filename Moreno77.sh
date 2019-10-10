@@ -4,7 +4,7 @@ python .py
 sleep 1
 echo "\033[1;32m 1. Spam Grab\n 2. Spam Tokopedia\n 3. Spam OYO"
 echo " 00. Update Script"
-read -p " [?] Input =>\033[1;33m " pil;
+read -p " [?] Input => " pil;
 case $pil in
 1) cd data
 python SMS.py
