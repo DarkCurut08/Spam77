@@ -3,7 +3,7 @@ echo "\n\n\n\033[1;32m      +---------[Spamer by Moreno77]----------+"
 python .py
 sleep 1
 echo "\033[1;32m 1. Spam Grab\n 2. Spam Tokopedia\n 3. Spam OYO\n 4. Spam TRI"
-echo "\033[1;32m 5. Spam Email BPJS
+echo "\033[1;32m 5. Spam Email BPJS"
 echo " 00. Update Script"
 read -p " [?] Input => " pil;
 case $pil in
