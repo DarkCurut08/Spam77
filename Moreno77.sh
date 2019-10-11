@@ -23,6 +23,10 @@ exit
 python TRI.py
 exit
 ;;
+5) cd data
+python bpjs.py
+exit
+;;
 00) echo "[!] Proses Update Script......"
 sleep 2 
 cd $HOME
